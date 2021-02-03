@@ -115,7 +115,7 @@ class Game{
                 
              
         
-                if(player.score >= 10){
+                if(player.score >= 100){
                     this.end();
                 }
     }
